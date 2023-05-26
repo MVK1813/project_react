@@ -1,0 +1,50 @@
+
+  
+
+.label {
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.btn {
+  margin-top: 20px;
+}
+.home-con {
+  font-family: sans-serif;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  height: 40vh;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: #a8adbf;
+  margin: 200px 50px 50px 500px;
+  padding: 8px 80px 30px 80px;
+  border-radius: 30px;
+  
+}
+
+
+/* .home-con{
+  height: 300px;
+  width: 200px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin-top: 30px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  background: #f2f2f2;
+  color: #190101;
+  border-radius: 10px;
+  padding-top: 50px;
+} */
+
+.hii
+{
+  border-radius: 10px;
+}
+
+
+
+

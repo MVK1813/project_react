@@ -1,0 +1,84 @@
+{
+  "employee": [
+    {
+      "id": 10001,
+      "name": "Ravi",
+      "sex": "F",
+      "dob": "1997-10-23",
+      "salary": "2982",
+      "department": "Sales"
+    },
+    {
+      "id": 10002,
+      "name": "Raju",
+      "sex": "M",
+      "dob": "1995-10-11",
+      "salary": 800000,
+      "department": "Accounts"
+    },
+    {
+      "id": 10003,
+      "name": "Kala",
+      "sex": "F",
+      "dob": "1995-10-12",
+      "salary": 800000,
+      "department": "Accounts"
+    },
+    {
+      "id": 10004,
+      "name": "Bala",
+      "sex": "M",
+      "dob": "1995-10-13",
+      "salary": 800000,
+      "department": "Sales"
+    },
+    {
+      "id": 10005,
+      "name": "Sara",
+      "sex": "F",
+      "dob": "1995-10-14",
+      "salary": 800000,
+      "department": "Accounts"
+    },
+    {
+      "id": 10006,
+      "name": "Prabhu",
+      "sex": "M",
+      "dob": "1995-10-15",
+      "salary": 800000,
+      "department": "Hr"
+    },
+    {
+      "id": 10007,
+      "name": "Gayathri",
+      "sex": "F",
+      "dob": "1995-10-16",
+      "salary": 800000,
+      "department": "Sales"
+    },
+    {
+      "id": 10008,
+      "name": "Jansi",
+      "sex": "F",
+      "dob": "1995-10-17",
+      "salary": 800000,
+      "department": "Accounts"
+    },
+    {
+      "id": 10009,
+      "name": "Densi",
+      "sex": "F",
+      "dob": "1995-10-18",
+      "salary": 800000,
+      "department": "Hr"
+    },
+    {
+      "id": 10010,
+      "name": "kiran",
+      "sex": "M",
+      "dob": "2023-05-01",
+      "salary": "24700",
+      "department": "Sales"
+    }
+  ]
+}

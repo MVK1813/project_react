@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.btn {
+  margin: 2px;
+}
+.divbtn {
+  float: left;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -35,4 +41,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+.radio-btn {
+  margin: 5px;
+}
+.radio-div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.salary-div {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
